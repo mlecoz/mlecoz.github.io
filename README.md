@@ -1,3 +1,3 @@
 # mlecoz.github.io
 
-This is my personal website, which acts a sort of informal resume.
+This is my personal website, which acts as a sort of informal resume.
